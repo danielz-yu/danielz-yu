@@ -1,8 +1,20 @@
-- 👋 Hi there, I’m @danielz-yu!
+# 𝓦𝓮𝓵𝓬𝓸𝓂𝓮◝(ᵔᗜᵔ)◜
+
+**👋 Hi there, I’m [@danielz-yu](https://github.com/danielz-yu)!**
 - 🎓 Computer Engineering @ University of Toronto
 - 🧬 w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
 - 📍 Toronto, Canada
 - 🌱 Saskatoon, Canada
+- 🤝 [LinkedIn | danielzyu](https://www.linkedin.com/in/danielzyu/)
+
+**👩🏻‍💻ᝰ.ᐟ Currently Working On:**
+- 🛰️ [UofT RSX Aerial CanSat 2025-2026](https://github.com/adam-kabbara/RSX-CANSAT-2026)
+  * 🚀 [2026 CanSat Competition](https://cansatcompetition.com/)
+  * 🏆 [5th Place Internationally in 2025!](https://cansatcompetition.com/winners.html)
+  * 💻 [CanSat 2024-2025 GitHub Repo](https://github.com/adam-kabbara/RSX-CANSAT-2025)
+- ⚽ [Vision-Guided Automated Foosball Opponent](https://github.com/danielz-yu/Automated_Foosball_Table_ECE496)
+  * 📚 Fourth-Year Capstone Project
+  * 🎓 ECE496 @ UofT
 
 <!---
 - 👀 I’m interested in ...

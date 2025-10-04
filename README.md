@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @danielz-yu
+- 👋 Hi there, I’m @danielz-yu!
 - 🎓 Computer Engineering @ University of Toronto
 - 🧬 w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
+- 📍 Toronto, Canada
+- 🌱 Saskatoon, Canada
 
 <!---
 - 👀 I’m interested in ...

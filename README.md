@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @danielz-yu
-- 🎓 4th Year Computer Engineering @ University of Toronto
+- 🎓 Computer Engineering @ University of Toronto
+- 🧬 w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

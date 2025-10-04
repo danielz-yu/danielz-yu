@@ -14,7 +14,7 @@
   * 💻 [CanSat 2024-2025 GitHub Repo](https://github.com/adam-kabbara/RSX-CANSAT-2025)
 - ⚽ [Vision-Guided Automated Foosball Opponent](https://github.com/danielz-yu/Automated_Foosball_Table_ECE496)
   * 📚 Fourth-Year Capstone Project
-  * 🎓 ECE496 @ UofT
+  * 📖 ECE496 @ UofT
 
 <!---
 - 👀 I’m interested in ...

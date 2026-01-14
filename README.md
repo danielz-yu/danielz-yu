@@ -12,9 +12,14 @@
   * 🚀 [2026 CanSat Competition](https://cansatcompetition.com/)
   * 🏆 [5th Place Internationally in 2025!](https://cansatcompetition.com/winners.html)
   * 💻 [CanSat 2024-2025 GitHub Repo](https://github.com/adam-kabbara/RSX-CANSAT-2025)
+- 🧠 [Development and Characterization of Textile-Electrode Electroencephalogram Systems for Brain-Computer Interfaces](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab)
+  * 📔 Fourth-Year Thesis
+  * 📖 ECE499 @ UofT
+  * 👨‍🏫 Supervised by Dr. Tom Chau, Dr. Paul Yoo
 - ⚽ [Vision-Guided Automated Foosball Opponent](https://github.com/danielz-yu/Automated_Foosball_Table_ECE496)
   * 📚 Fourth-Year Capstone Project
   * 📖 ECE496 @ UofT
+  * 👨‍🏫 Supervised by Dr. Raviraj Adve
 
 <!---
 - 👀 I’m interested in ...

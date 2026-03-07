@@ -10,6 +10,7 @@
 **👩🏻‍💻ᝰ.ᐟ Currently Working On:**
 - 🛰️ [UofT RSX Aerial CanSat 2025-2026](https://github.com/adam-kabbara/RSX-CANSAT-2026)
   * 🚀 [2026 CanSat Competition](https://cansatcompetition.com/)
+  * 🤖 [Robotics for Space Exploration (RSX)](https://rsx.skule.ca/)
   * 🏆 [5th Place Internationally in 2025!](https://cansatcompetition.com/winners.html)
   * 💻 [CanSat 2024-2025 GitHub Repo](https://github.com/adam-kabbara/RSX-CANSAT-2025)
 - 🧠 [Development and Characterization of Textile-Electrode Electroencephalogram Systems for Brain-Computer Interfaces](https://github.com/danielz-yu/ECE499_Thesis_BRI_PRISM_Lab)
@@ -20,6 +21,9 @@
   * 📚 Fourth-Year Capstone Project
   * 📖 ECE496 @ UofT
   * 👨‍🏫 Supervised by Dr. Raviraj Adve
+- 🌌 [CRISTAR UofT CAN-RGX 2026](https://github.com/danielz-yu/CRISTAR_UofT_CAN-RGX_9)
+  * 🚀 [2026 Canadian Reduced Gravity Experiment Design Challenge](https://www.seds.ca/can-rgx/#current)
+  * ⚛️ In Collaboration w/ the [Miller Group Research](https://lphys.chem.utoronto.ca/)
 
 <!---
 - 👀 I’m interested in ...

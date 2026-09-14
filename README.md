@@ -1,13 +1,15 @@
 # 𝓦𝓮𝓵𝓬𝓸𝓂𝓮◝(ᵔᗜᵔ)◜
 
 **👋 Hi there, I’m [@danielz-yu](https://github.com/danielz-yu)!**
-- 🎓 Computer Engineering @ University of Toronto
-- 🧬 w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
+- 🧬 MASc in Biomedical Engineering @ University of Toronto
+- 🎓 BASc in Computer Engineering w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
 - 📍 Toronto, Canada
 - 🌱 Saskatoon, Canada
 - 🤝 [LinkedIn | danielzyu](https://www.linkedin.com/in/danielzyu/)
 
 **👩🏻‍💻ᝰ.ᐟ Currently Working On:**
+
+<!---
 - 🛰️ [UofT RSX Aerial CanSat 2025-2026](https://github.com/adam-kabbara/RSX-CANSAT-2026)
   * 🚀 [2026 CanSat Competition](https://cansatcompetition.com/)
   * 🤖 [Robotics for Space Exploration (RSX)](https://rsx.skule.ca/)
@@ -24,6 +26,7 @@
 - 🌌 [CRISTAR UofT CAN-RGX 2026](https://github.com/danielz-yu/CRISTAR_UofT_CAN-RGX_9)
   * 🚀 [2026 Canadian Reduced Gravity Experiment Design Challenge](https://www.seds.ca/can-rgx/#current)
   * ⚛️ In Collaboration w/ the [Miller Group Research](https://lphys.chem.utoronto.ca/)
+--->
 
 <!---
 - 👀 I’m interested in ...

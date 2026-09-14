@@ -1,13 +1,18 @@
 # 𝓦𝓮𝓵𝓬𝓸𝓂𝓮◝(ᵔᗜᵔ)◜
 
 **👋 Hi there, I’m [@danielz-yu](https://github.com/danielz-yu)!**
-- 🧬 MASc in Biomedical Engineering @ University of Toronto
-- 🎓 BASc in Computer Engineering w/ Bioengineering Minor & 🤖 Artificial Intelligence Certificate
+- 📚 MASc Biomedical Engineering @ University of Toronto
+- 🎓 BASc Computer Engineering w/ 🧬 Bioengineering Minor & 🤖 Artificial Intelligence Certificate
 - 📍 Toronto, Canada
 - 🌱 Saskatoon, Canada
 - 🤝 [LinkedIn | danielzyu](https://www.linkedin.com/in/danielzyu/)
 
 **👩🏻‍💻ᝰ.ᐟ Currently Working On:**
+- Research at the Translational Neurophysiology & Brain Stimulation [(TNBS)](https://torontotnbs.com) Lab
+  * Focus on adaptive, closed-loop Deep Brain Stimulation (DBS) techniques for neurological diseases
+  * Supervisor: [Dr. Luka Milosevic](https://bme.utoronto.ca/faculty-research/core-faculty/luka-milosevic/), Institute of Biomedical Engineering
+  * Krembil Brain Institute, Toronto Western, Hospital, University Health Network (UHN)
+  * Center for Advancing Neurotechnological Innovation to Application (CRANIA)
 
 <!---
 - 🛰️ [UofT RSX Aerial CanSat 2025-2026](https://github.com/adam-kabbara/RSX-CANSAT-2026)

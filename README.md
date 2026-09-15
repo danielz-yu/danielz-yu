@@ -11,7 +11,7 @@
 - Research at the Translational Neurophysiology & Brain Stimulation [(TNBS)](https://torontotnbs.com) Lab
   * Focus on adaptive, closed-loop Deep Brain Stimulation (DBS) techniques for neurological diseases
   * Supervisor: [Dr. Luka Milosevic](https://bme.utoronto.ca/faculty-research/core-faculty/luka-milosevic/), Institute of Biomedical Engineering
-  * Krembil Brain Institute, Toronto Western, Hospital, University Health Network (UHN)
+  * Krembil Brain Institute, Toronto Western Hospital, University Health Network (UHN)
   * Center for Advancing Neurotechnological Innovation to Application (CRANIA)
 
 <!---

@@ -1,8 +1,8 @@
 # 𝓦𝓮𝓵𝓬𝓸𝓂𝓮◝(ᵔᗜᵔ)◜
 
 **👋 Hi there, I’m [@danielz-yu](https://github.com/danielz-yu)!**
-- 📚 MASc Biomedical Engineering @ University of Toronto
-- 🎓 BASc Computer Engineering w/ 🧬 Bioengineering Minor & 🤖 Artificial Intelligence Certificate
+- 📚 MASc Candidate in Biomedical Engineering @ University of Toronto
+- 🎓 BASc of Computer Engineering w/ 🧬 Bioengineering Minor & 🤖 Artificial Intelligence Certificate
 - 📍 Toronto, Canada
 - 🌱 Saskatoon, Canada
 - 🤝 [LinkedIn | danielzyu](https://www.linkedin.com/in/danielzyu/)
